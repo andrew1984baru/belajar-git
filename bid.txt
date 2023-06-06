@@ -1,3 +1,13 @@
-aku lagi 
-hasil
-<p>baru selesai</p>
+<html>
+	<head>
+		<title></title>
+	</head>
+
+<body>
+	aku lagi 
+	hasil
+	<p>baru selesai</p>
+</body>
+
+</html>
+
